@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "442804245350",
+    "project_id": "emoetry-app",
+    "storage_bucket": "emoetry-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442804245350:android:73d2d5bc67275b80926ea7",
+        "android_client_info": {
+          "package_name": "com.example.emo_etry_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442804245350-4eh6l5i3l01uvngvtumb9ihi3b8lkfgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxolyl90NMCGXFyJLR8-QCrUiSUydh_K0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442804245350-4eh6l5i3l01uvngvtumb9ihi3b8lkfgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
