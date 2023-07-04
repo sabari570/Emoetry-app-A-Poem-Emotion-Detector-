@@ -73,22 +73,28 @@ To install the app on your device, follow these steps:
 Here are some screenshots of the Poem Emotion Detection Mobile App:
 
 ### Sign in screen
-<img src="[https://github.com/sabari570/Emoetry-app-A-Poem-Emotion-Detector-/assets/84263598/9373c4b2-cd15-47bf-869a-6d8c7570d89c](https://github.com/sabari570/Emoetry-app-A-Poem-Emotion-Detector-/assets/84263598/52688d27-2dae-473b-a160-68f726788a6e](https://github.com/sabari570/Emoetry-app-A-Poem-Emotion-Detector-/assets/84263598/97acd466-f73f-4b28-a41d-99398500501c)" alt="App Logo" width="300" height="auto" />
+<img src="https://github.com/sabari570/Emoetry-app-A-Poem-Emotion-Detector-/assets/84263598/97acd466-f73f-4b28-a41d-99398500501c" alt="App Logo" width="200" height="auto" />
 
-**Sign in screen**
-![Sign in screen](https://github.com/sabari570/Emoetry-app-A-Poem-Emotion-Detector-/assets/84263598/97acd466-f73f-4b28-a41d-99398500501c)
+### Sign up screen
+<img src="https://github.com/sabari570/Emoetry-app-A-Poem-Emotion-Detector-/assets/84263598/71992814-2438-4a00-8bea-6bb8399bf899" alt="App Logo" width="200" height="auto" />
 
-**Sign up screen**
-![Sign up screen](https://github.com/sabari570/Emoetry-app-A-Poem-Emotion-Detector-/assets/84263598/71992814-2438-4a00-8bea-6bb8399bf899)
-![home page](https://github.com/sabari570/Emoetry-app-A-Poem-Emotion-Detector-/assets/84263598/d370ee0d-59cd-4cd2-be77-6ab0c421e322)
-![input or pick image option](https://github.com/sabari570/Emoetry-app-A-Poem-Emotion-Detector-/assets/84263598/a1e04534-eaa6-43ba-8972-9b71e7cf1a3e)
-![inputted poem](https://github.com/sabari570/Emoetry-app-A-Poem-Emotion-Detector-/assets/84263598/3c4334eb-a410-4a2b-b921-1d97d67655cc)
-![prediction page](https://github.com/sabari570/Emoetry-app-A-Poem-Emotion-Detector-/assets/84263598/74bba2e5-dbec-46e9-8a3e-4c9f35f7e7a3)
-![history page](https://github.com/sabari570/Emoetry-app-A-Poem-Emotion-Detector-/assets/84263598/d079bcc0-8ad9-4e3a-83a9-5240bdc7258c)
-![profile page](https://github.com/sabari570/Emoetry-app-A-Poem-Emotion-Detector-/assets/84263598/b1f73340-5935-412a-ac1d-fd4b6b74b5ab)
+### Home screen 
+<img src="https://github.com/sabari570/Emoetry-app-A-Poem-Emotion-Detector-/assets/84263598/d370ee0d-59cd-4cd2-be77-6ab0c421e322" alt="App Logo" width="200" height="auto" />
 
+### Input image camera options
+<img src="https://github.com/sabari570/Emoetry-app-A-Poem-Emotion-Detector-/assets/84263598/97acd466-f73f-4b28-a41d-99398500501c" alt="App Logo" width="200" height="auto" />
 
+### After input of the poem
+<img src="https://github.com/sabari570/Emoetry-app-A-Poem-Emotion-Detector-/assets/84263598/3c4334eb-a410-4a2b-b921-1d97d67655cc" alt="App Logo" width="200" height="auto" />
 
+### Prediction screen
+<img src="https://github.com/sabari570/Emoetry-app-A-Poem-Emotion-Detector-/assets/84263598/74bba2e5-dbec-46e9-8a3e-4c9f35f7e7a3" alt="App Logo" width="200" height="auto" />
+
+### History screen
+<img src="https://github.com/sabari570/Emoetry-app-A-Poem-Emotion-Detector-/assets/84263598/d079bcc0-8ad9-4e3a-83a9-5240bdc7258c" alt="App Logo" width="200" height="auto" />
+
+### User dashboard
+<img src="https://github.com/sabari570/Emoetry-app-A-Poem-Emotion-Detector-/assets/84263598/b1f73340-5935-412a-ac1d-fd4b6b74b5ab" alt="App Logo" width="200" height="auto" />
 
 
 ## Contributing
