@@ -64,7 +64,7 @@ Before running the Flask server for the first time, ensure that the following pa
 ## Installation
 To install the app on your device, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-repo-url.git`
+1. Clone the repository: `git clone [https://github.com/your-repo-url.git](https://github.com/sabari570/Emoetry-app-A-Poem-Emotion-Detector-.git)`
 2. Navigate to the app directory: `cd poem_emotion_detection_app`
 3. Install Flutter dependencies: `flutter pub get`
 4. Run the app: `flutter run`
