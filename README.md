@@ -76,6 +76,22 @@ Here are some screenshots of the Poem Emotion Detection Mobile App:
   <img src="https://github.com/sabari570/Emoetry-app-A-Poem-Emotion-Detector-/assets/84263598/97acd466-f73f-4b28-a41d-99398500501c" alt="App Logo" width="200" height="auto" />
   
   <img src="https://github.com/sabari570/Emoetry-app-A-Poem-Emotion-Detector-/assets/84263598/71992814-2438-4a00-8bea-6bb8399bf899" alt="App Logo" width="200" height="auto" />
+
+    <img src="https://github.com/sabari570/Emoetry-app-A-Poem-Emotion-Detector-/assets/84263598/97acd466-f73f-4b28-a41d-99398500501c" alt="App Logo" width="200" height="auto" />
+  
+  <img src="https://github.com/sabari570/Emoetry-app-A-Poem-Emotion-Detector-/assets/84263598/71992814-2438-4a00-8bea-6bb8399bf899" alt="App Logo" width="200" height="auto" />
+  
+  <img src="https://github.com/sabari570/Emoetry-app-A-Poem-Emotion-Detector-/assets/84263598/d370ee0d-59cd-4cd2-be77-6ab0c421e322" alt="App Logo" width="200" height="auto" />
+  
+  <img src="https://github.com/sabari570/Emoetry-app-A-Poem-Emotion-Detector-/assets/84263598/97acd466-f73f-4b28-a41d-99398500501c" alt="App Logo" width="200" height="auto" />
+  
+  <img src="https://github.com/sabari570/Emoetry-app-A-Poem-Emotion-Detector-/assets/84263598/3c4334eb-a410-4a2b-b921-1d97d67655cc" alt="App Logo" width="200" height="auto" />
+  
+  <img src="https://github.com/sabari570/Emoetry-app-A-Poem-Emotion-Detector-/assets/84263598/74bba2e5-dbec-46e9-8a3e-4c9f35f7e7a3" alt="App Logo" width="200" height="auto" />
+  
+  <img src="https://github.com/sabari570/Emoetry-app-A-Poem-Emotion-Detector-/assets/84263598/d079bcc0-8ad9-4e3a-83a9-5240bdc7258c" alt="App Logo" width="200" height="auto" />
+  
+  <img src="https://github.com/sabari570/Emoetry-app-A-Poem-Emotion-Detector-/assets/84263598/b1f73340-5935-412a-ac1d-fd4b6b74b5ab" alt="App Logo" width="200" height="auto" />
 </div>
 
 
