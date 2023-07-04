@@ -1,5 +1,6 @@
 # Poem Emotion Detection Mobile App (NLP-based Machine Learning Project)
 
+## App Logo
 ![App Logo](https://github.com/sabari570/Emoetry-app-A-Poem-Emotion-Detector-/assets/84263598/9373c4b2-cd15-47bf-869a-6d8c7570d89c)
 
 
