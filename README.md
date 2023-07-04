@@ -73,13 +73,11 @@ To install the app on your device, follow these steps:
 Here are some screenshots of the Poem Emotion Detection Mobile App:
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/sabari570/Emoetry-app-A-Poem-Emotion-Detector-/assets/84263598/97acd466-f73f-4b28-a41d-99398500501c" alt="sign in" style="margin-right: 10px;" width="200" height="auto" />
+  <img src="https://github.com/sabari570/Emoetry-app-A-Poem-Emotion-Detector-/assets/84263598/97acd466-f73f-4b28-a41d-99398500501c" alt="sign in" width="200" height="auto" />
   
   <img src="https://github.com/sabari570/Emoetry-app-A-Poem-Emotion-Detector-/assets/84263598/71992814-2438-4a00-8bea-6bb8399bf899" alt="sign up" width="200" height="auto" />
   
   <img src="https://github.com/sabari570/Emoetry-app-A-Poem-Emotion-Detector-/assets/84263598/d370ee0d-59cd-4cd2-be77-6ab0c421e322" alt="home screen" width="200" height="auto" />
-  
-  <img src="https://github.com/sabari570/Emoetry-app-A-Poem-Emotion-Detector-/assets/84263598/97acd466-f73f-4b28-a41d-99398500501c" alt="input camera options" width="200" height="auto" />
   
   <img src="https://github.com/sabari570/Emoetry-app-A-Poem-Emotion-Detector-/assets/84263598/3c4334eb-a410-4a2b-b921-1d97d67655cc" alt="after input of poem" width="200" height="auto" />
   
