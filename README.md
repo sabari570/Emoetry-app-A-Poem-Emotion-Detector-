@@ -72,7 +72,7 @@ To install the app on your device, follow these steps:
 ## Screenshots
 Here are some screenshots of the Poem Emotion Detection Mobile App:
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/sabari570/Emoetry-app-A-Poem-Emotion-Detector-/assets/84263598/97acd466-f73f-4b28-a41d-99398500501c" alt="App Logo" width="200" height="auto" />
   
   <img src="https://github.com/sabari570/Emoetry-app-A-Poem-Emotion-Detector-/assets/84263598/71992814-2438-4a00-8bea-6bb8399bf899" alt="App Logo" width="200" height="auto" />
